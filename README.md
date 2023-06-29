@@ -4,6 +4,7 @@ Hi, I’m Prusakov Mikhail, i live in Nizhny Novgorod, Russia. I'am backend deve
 - I’m currently learning JavaScript frameworks like Nest, Fastify, Express
 # Contacts
 - Email: prusakov_tr@mail.ru
+- LeetCode: https://leetcode.com/Mikhas3009/
 # Education
 Nizniy Novgorod State University of Lobachevsky (3 course) 
 # Skills
