@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**Mikhas3009/Mikhas3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 About me
+Hi, I’m Prusakov Mikhail, i live in Nizhny Novgorod, Russia. I'am backend developer.
+- I’m interested in web development.
+- I’m currently learning JavaScript frameworks like Nest, Fastify, Express
+# Contacts
+- Email: prusakov_tr@mail.ru
+# Education
+Nizniy Novgorod State University of Lobachevsky (3 course) 
+# Skills
+- EJS
+- TypeScript
+- NestJS
+- ExpressJS
+- ORM(Sequelize, Type, Mongoose)
+- Docker
+- Java Script
+- MySQL, PostgreSQL
+- Git
