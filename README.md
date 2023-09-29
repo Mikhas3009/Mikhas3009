@@ -14,6 +14,6 @@ Nizniy Novgorod State University of Lobachevsky (3 course)
 - ExpressJS
 - ORM(Sequelize, Type, Mongoose)
 - Docker
-- Java Script
+- JavaScript
 - MySQL, PostgreSQL
 - Git
