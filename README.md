@@ -6,7 +6,7 @@ Hi, I’m Prusakov Mikhail, i live in Nizhny Novgorod, Russia. I'am backend deve
 - Email: prusakov_tr@mail.ru
 - LeetCode: https://leetcode.com/Mikhas3009/
 # Education
-Nizniy Novgorod State University of Lobachevsky (3 course) 
+Nizniy Novgorod State University of Lobachevsky
 # Skills
 - EJS
 - TypeScript
